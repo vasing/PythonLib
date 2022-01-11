@@ -1,0 +1,3 @@
+# Data formats that will be ignored:
+*.xlsx
+*.html
