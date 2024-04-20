@@ -1,3 +1,5 @@
 # Data formats that will be ignored:
 *.xlsx
 *.html
+# File thet will be ignored in sub directory:
+/PyMail/secure.py
