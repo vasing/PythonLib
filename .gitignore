@@ -1,7 +1,9 @@
 # Data formats that will be ignored:
 *.xlsx
 *.html
-# # Data thet will be ignored in PyMail:
-/PyMail/.ipynb_checkpoints/
-/PyMail/__pycache__/
-/PyMail/secure.py
+*.png
+*.bak
+
+# Folder that that will be ignored:
+**/ .ipynb_checkpoints/
+**/ __pycache__/
